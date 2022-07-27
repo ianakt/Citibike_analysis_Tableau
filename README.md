@@ -11,7 +11,7 @@ Des Moines, Iowa has a growing population, according to [US Census Data](https:/
 ## Analysis
 
 Overall we can see that there are more male than female users, the popular times are between 7 and 9 am on the weekdays, and that subscribers use citibikes more often.
-Please this [Tableau Page for more details](https://public.tableau.com/app/profile/ian.turner1632/viz/Mod14Chlgedraft3/CitiBikeTrends?publish=yes). 
+Please see this [Tableau Page for more details](https://public.tableau.com/app/profile/ian.turner1632/viz/Mod14Chlgedraft3/CitiBikeTrends?publish=yes). 
 
 ## Things to be considered 
 
